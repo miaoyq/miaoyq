@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- CKA: [Certified Kubernetes Administrator](https://www.credly.com/earner/earned/badge/1f0ac9bd-3983-4add-9c81-da55ca997ae1)
+- CKS: [Certified Kubernetes Security Specialist](https://www.credly.com/badges/1f0ac9bd-3983-4add-9c81-da55ca997ae1)
+
